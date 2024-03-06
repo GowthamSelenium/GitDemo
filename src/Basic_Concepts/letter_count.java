@@ -13,6 +13,7 @@ public class letter_count {
 			}
 		}
 		System.out.println(count);
+		System.out.println("Completed");
 	}
 
 }
