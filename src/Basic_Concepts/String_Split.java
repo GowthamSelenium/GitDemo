@@ -25,6 +25,9 @@ public class String_Split {
 			List<Integer> pin = new ArrayList<Integer>();
 			pin.add(Integer.parseInt(PinCodeArray[i]));
 			System.out.println(pin);
+			System.out.println("Hello world");
+			System.out.println("Gowtham Here");
+			System.out.println("Harish Here");
 			
 		}
 		
