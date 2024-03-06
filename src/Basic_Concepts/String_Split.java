@@ -27,7 +27,11 @@ public class String_Split {
 			System.out.println(pin);
 			System.out.println("Hello world");
 			System.out.println("Gowtham Here");
+<<<<<<< HEAD
 			System.out.println("Harish Here");
+=======
+			System.out.println("Created new master branch");
+>>>>>>> b33a1c17e17e93d15c7e0c6323fe7727686b5ba9
 			
 		}
 		
